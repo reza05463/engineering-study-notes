@@ -5,7 +5,6 @@
 
 I collected my university reports, presentations, and study notes here. They cover networking, software design and testing, hardware, and machine learning. Some are design exercises, while others are topic summaries or paper reviews.
 
-All 13 notes are available in both languages. Use the English / فارسی links at the top of each document to switch languages.
 
 | Topic | Artifact type | Original file |
 |---|---|---|
