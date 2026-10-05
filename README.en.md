@@ -23,8 +23,4 @@ All 13 notes are available in both languages. Use the English / فارسی links
 | [Ethernet forwarding trade-offs](notes/ethernet-switching.md) | Study note |
 | [Documenting an Android emulator setup](notes/android-emulation.md) | Study note |
 
-## Attribution
 
-I worked on the Huge Pages report with Mohammadreza Omidian. For the chess presentation, I reviewed Saleh Alwer’s paper; the experimental results belong to that paper. I originally prepared most of this coursework in Persian and the Ruby presentation in English.
-
-I have kept the original filenames and references in each note so the sources are easy to follow. See [how I organized these notes](EDITORIAL-NOTES.md) for details.
