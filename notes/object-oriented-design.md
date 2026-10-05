@@ -1,8 +1,10 @@
 # Object-oriented design fundamentals
 
+[**English**](object-oriented-design.md) · [**فارسی**](object-oriented-design.fa.md)
+
 **Type:** Study note
 
-Explaining objects, classes, encapsulation, inheritance, polymorphism, and abstraction without overstating their benefits.
+My notes on objects, classes, encapsulation, inheritance, polymorphism, and abstraction.
 
 ## Objects and classes
 
@@ -20,7 +22,7 @@ Inheritance can express a meaningful subtype relationship. Polymorphism lets cal
 
 Clear interfaces can support maintainability and testing, but object orientation does not automatically isolate every change or make a system secure. Overly deep inheritance and unclear responsibilities can increase coupling.
 
-## Evidence and next exercise
+## A possible follow-up
 
 This artifact is a conceptual report. A useful follow-up would implement a small example with two interchangeable implementations and tests showing the same public contract.
 
@@ -28,6 +30,6 @@ This artifact is a conceptual report. A useful follow-up would implement a small
 
 - `برنامه نویسی شیء گرا-(رضا رنجبر).docx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

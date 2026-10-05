@@ -1,8 +1,10 @@
 # Ethernet forwarding trade-offs
 
+[**English**](ethernet-switching.md) · [**فارسی**](ethernet-switching.fa.md)
+
 **Type:** Study note
 
-Comparing store-and-forward, cut-through, and fragment-free forwarding through latency and error-handling trade-offs.
+I compared store-and-forward, cut-through, and fragment-free switching, focusing on latency and error handling.
 
 ## Store-and-forward
 
@@ -20,14 +22,14 @@ The original slides use the phrase 100% reliability for store-and-forward. This 
 
 The deck includes example configuration commands for several vendors. They are not reproduced as universal commands: availability and syntax must be verified against the exact switch model, hardware, and software release.
 
-## Evidence
+## About this work
 
-This is a comparative presentation, with no switch configuration export, traffic capture, or measured forwarding-latency experiment. A lab extension should preserve the device version and traffic conditions alongside its observations.
+My work here is a comparison of forwarding methods. I have not included switch configuration output, packet captures, or latency measurements. A lab extension would need to record the device version and traffic conditions.
 
 ## Source submission
 
 - `switches.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

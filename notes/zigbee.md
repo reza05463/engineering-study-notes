@@ -1,8 +1,10 @@
 # Zigbee and low-power sensor networks
 
+[**English**](zigbee.md) · [**فارسی**](zigbee.fa.md)
+
 **Type:** Study note
 
-A protocol study focused on device roles, mesh routing, power use, and careful technology comparisons.
+My notes on Zigbee device roles, mesh routing, power use, and comparisons with other wireless technologies.
 
 ## Scope
 
@@ -20,19 +22,19 @@ The original slides make blanket claims about Wi-Fi device counts and Bluetooth 
 
 Encryption alone does not establish that a deployment is secure. Provisioning, key handling, device updates, and configuration need their own analysis. Range and battery-life figures should be labelled with test conditions rather than promised universally.
 
-## Evidence
+## About this work
 
-This is a classroom protocol review. It includes no deployed mesh, firmware, packet captures, or measured power data. A practical extension would document join behaviour and packet delivery in a small sensor lab.
+I prepared this as a classroom protocol review. I have not included a deployed mesh, firmware, packet captures, or power measurements. A possible follow-up is a small sensor lab to observe device joining and packet delivery.
 
 ## Source submission
 
 - `رضا رنجبر zigbee protocol.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
 ## References
 
 - [Connectivity Standards Alliance: Zigbee](https://csa-iot.org/all-solutions/zigbee/)
 - [Bluetooth Mesh specification](https://www.bluetooth.com/specifications/specs/mesh-profile-1-0/)
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

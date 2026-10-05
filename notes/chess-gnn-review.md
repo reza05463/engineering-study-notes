@@ -1,12 +1,14 @@
 # Reading graph neural networks for chess
 
+[**English**](chess-gnn-review.md) · [**فارسی**](chess-gnn-review.fa.md)
+
 **Type:** Paper review
 
-A classroom presentation explaining a published graph-based approach to chess policy and value prediction.
+For this class presentation, I reviewed a paper on using graph neural networks to predict chess moves and evaluate positions.
 
 ## Attribution
 
-The supplied paper, Graph Neural Networks for Chess, is authored by Saleh Alwer, supervised by Aske Plaat and Walter Kosters at Leiden University. Reza Ranjbar’s artifact is a classroom presentation about that paper.
+The supplied paper, Graph Neural Networks for Chess, is authored by Saleh Alwer, supervised by Aske Plaat and Walter Kosters at Leiden University. My contribution here is a classroom presentation reviewing that paper.
 
 ## Research question
 
@@ -18,9 +20,9 @@ The paper uses graph attention networks and separate policy and value outputs. M
 
 ## Interpreting the results
 
-The presentation reproduces the paper’s comparison table. These are the paper author’s reported results, not independently reproduced experiments or Reza’s model-training results. No training code, model weights, or evaluation logs were supplied.
+I included the paper’s comparison table in my presentation. The results belong to the paper’s author; I did not reproduce the experiments or train a model for this assignment.
 
-## Next exercise
+## A possible follow-up
 
 A clearly labelled reproduction could implement a small representation example and test legal-move handling. Keep a reading summary separate from any new experiments, and cite the paper whenever discussing its results.
 
@@ -29,6 +31,6 @@ A clearly labelled reproduction could implement a small representation example a
 - `BNAICBENELEARN_2023_paper_6.pdf`
 - `ژورنال کنفرانس رضا رنجبر.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

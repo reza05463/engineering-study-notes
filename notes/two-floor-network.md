@@ -1,8 +1,10 @@
 # A two-floor wired and wireless network
 
+[**English**](two-floor-network.md) · [**فارسی**](two-floor-network.fa.md)
+
 **Type:** Design study
 
-A documented connection plan for twenty endpoints across two floors and a conference area.
+For this assignment, I planned a wired and wireless network for twenty devices across two floors and a conference area.
 
 ## Requirements
 
@@ -16,9 +18,9 @@ The report describes CAT6 links, a rack, patch panel, switch, server-based DHCP,
 
 Endpoint counts are only the starting point for switch sizing. Router, server, access-point and inter-switch links also consume ports. A port schedule and cable-route plan would make the design easier to review and maintain.
 
-## Evidence boundary
+## About this work
 
-The supplied PDF records a classroom configuration exercise. It does not include an editable simulator file, a hardware deployment record, or measured throughput and coverage results.
+My PDF records the classroom configuration exercise, including screenshots and a schematic. I have not included an editable simulator file, a hardware deployment record, or throughput and coverage measurements.
 
 ## Next version
 
@@ -28,6 +30,6 @@ Preserve the twenty-endpoint requirement, add an address table and port map, the
 
 - `پیکربندی.pdf`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

@@ -1,12 +1,14 @@
 # Understanding Linux huge pages
 
+[**English**](huge-pages.md) · [**فارسی**](huge-pages.fa.md)
+
 **Type:** Collaborative study
 
-A collaborative report on virtual memory, translation overhead, and the trade-offs of larger pages.
+Mohammadreza Omidian and I prepared this report on virtual memory, address translation, and the trade-offs of larger memory pages.
 
 ## Attribution
 
-The report and presentation credit Reza Ranjbar and Mohammadreza Omidian. Individual responsibilities are not specified in the supplied files, so this portfolio presents the work as collaborative.
+I worked on this report and presentation with Mohammadreza Omidian. We credited the work jointly; the original files do not list separate responsibilities.
 
 ## The core idea
 
@@ -29,11 +31,11 @@ In an isolated lab, record the kernel, CPU, workload, memory size, and page poli
 - `رضا رنجبر محمدرضا امیدیان.zip/تحقیق کارگاه سیستم عامل.docx`
 - `رضا رنجبر محمدرضا امیدیان.zip/تحقیق کارگاه سیستم عامل.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
 ## References
 
 - [Linux HugeTLB documentation](https://docs.kernel.org/admin-guide/mm/hugetlbpage.html)
 - [Linux Transparent Hugepage documentation](https://docs.kernel.org/admin-guide/mm/transhuge.html)
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

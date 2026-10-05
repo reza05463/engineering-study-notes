@@ -1,8 +1,10 @@
 # Gyroscope principles and applications
 
+[**English**](gyroscopes.md) · [**فارسی**](gyroscopes.fa.md)
+
 **Type:** Presentation
 
-A survey of mechanical, ring-laser, and MEMS gyroscopes and their applications in orientation sensing.
+In this presentation, I covered mechanical, ring-laser, and MEMS gyroscopes and their uses in orientation sensing.
 
 ## Scope
 
@@ -12,15 +14,15 @@ The ten-page image-based presentation covers historical context, mechanical gyro
 
 The useful comparison is the operating principle and the requirements of a particular application. Accuracy, bias, size, power, and cost must be tied to a specific sensor or measurement; a technology label alone does not establish performance.
 
-## Editorial revision
+## Notes and corrections
 
 The portfolio summary removes uncited universal accuracy rankings and historical first-invention claims. The original slides include a visibly watermarked stock image, so their artwork is not reproduced in this public edition.
 
-## Evidence boundary
+## About this work
 
-This is a research presentation, not a built sensor system. No calibration, sample data, integration code, or performance measurements were supplied.
+I researched the sensor technologies for this presentation. I have not included a built sensor system, calibration data, integration code, or performance measurements.
 
-## Next exercise
+## A possible follow-up
 
 Choose a documented sensor, collect stationary and rotating samples, and explain bias and drift using a repeatable experiment. Report units, sampling interval, and calibration conditions.
 
@@ -28,6 +30,6 @@ Choose a documented sensor, collect stationary and rotating samples, and explain
 
 - `رضا رنجبر ژیروسکوپ.pdf`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

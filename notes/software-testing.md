@@ -1,8 +1,10 @@
 # Black-box and white-box testing
 
+[**English**](software-testing.md) · [**فارسی**](software-testing.fa.md)
+
 **Type:** Study note
 
-Choosing tests from observable requirements and internal control flow, with a concrete boundary example.
+In this report, I compared black-box and white-box testing. I have also included a simple boundary-value example.
 
 ## Black-box techniques
 
@@ -20,18 +22,18 @@ For a hypothetical field accepting integer values from 1 to 100, test valid and 
 
 Test successful registration and invalid input as observable behaviours. Then inspect branches around authentication and owner/admin authorization. Combine both approaches: coverage alone does not establish that requirements are correct or complete.
 
-## Evidence
+## About this work
 
-The original artifact is a comparison report. No automated test suite, coverage report, or defect log accompanied it.
+I prepared this as a comparison report. It does not include an automated test suite, coverage report, or defect log.
 
 ## Source submission
 
 - `مقایسه_و_برسی_تست_های_جعبه_سیاه_و_جعبه_سفید.docx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
 ## References
 
 - [ISTQB test-technique material](https://istqb.org/?download_id=5745&sdm_process_download=1)
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

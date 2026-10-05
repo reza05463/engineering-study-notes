@@ -1,8 +1,10 @@
 # Documenting an Android emulator setup
 
+[**English**](android-emulation.md) · [**فارسی**](android-emulation.fa.md)
+
 **Type:** Study note
 
-Turning an introductory BlueStacks setup presentation into a precise, version-aware documentation outline.
+My notes on installing BlueStacks, configuring an emulator, and troubleshooting setup problems.
 
 ## Scope
 
@@ -16,11 +18,11 @@ The slides refer to an unclear ‘text manager’ and describe clipboard feature
 
 Record the emulator release, operating system, CPU, memory, and virtualization state. Link to official requirements for that release rather than retaining the deck’s broad Windows-version claim.
 
-## Evidence boundary
+## About this work
 
-No versioned installation log or measured performance result was supplied. This is an introductory guide, not evidence of a completed virtualization deployment.
+I prepared an introductory setup guide. I have not included a versioned installation log or performance measurements.
 
-## Next exercise
+## A possible follow-up
 
 Capture a clean installation and one repeatable workload. Explain a real failure, its diagnosis, and the verified fix. Remove account details from screenshots before publication.
 
@@ -28,6 +30,6 @@ Capture a clean installation and one repeatable workload. Explain a real failure
 
 - `rahnmay-nsb-w-rah-andazy-blw-astk.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

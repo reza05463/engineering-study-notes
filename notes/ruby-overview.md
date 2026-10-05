@@ -1,8 +1,10 @@
 # An introduction to Ruby
 
+[**English**](ruby-overview.md) · [**فارسی**](ruby-overview.fa.md)
+
 **Type:** Presentation
 
-An English presentation introducing Ruby’s syntax, object model, package ecosystem, and web-development use.
+I prepared this presentation in English to introduce Ruby syntax, objects, gems, and its use in web development.
 
 ## Presentation scope
 
@@ -12,15 +14,15 @@ The eleven image-based slides introduce Ruby, Yukihiro Matsumoto, object-oriente
 
 Ruby is the language; Rails is a web framework built with it. Gems package reusable Ruby code, while dependency management belongs to the project setup rather than the language syntax itself.
 
-## Editorial revision
+## Notes and corrections
 
 Replace the presentation’s broad downfall narrative with a neutral discussion of workload, runtime, deployment, and team familiarity. Popularity claims and company-usage examples need dated sources before reuse.
 
-## Evidence boundary
+## About this work
 
-The supplied artifact is a presentation, with a code example embedded as an image. It is not a tested Ruby or Rails application.
+I included a code example as an image in the slides. This repository contains my presentation notes; it does not include a tested Ruby or Rails application.
 
-## Next exercise
+## A possible follow-up
 
 Turn the example into a runnable script, record its Ruby version, and add one small behaviour test. Only then describe it as an implementation project.
 
@@ -28,6 +30,6 @@ Turn the example into a runnable script, record its Ruby version, and add one sm
 
 - `reza.ranjbar.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

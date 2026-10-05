@@ -1,8 +1,10 @@
 # Network design for a 200 m² office
 
+[**English**](office-network.md) · [**فارسی**](office-network.fa.md)
+
 **Type:** Design study
 
-Planning wired desks and conference-room wireless access around a small office’s physical requirements.
+For this assignment, I planned wired desk connections and conference-room Wi-Fi for a 200 m² office.
 
 ## Requirements
 
@@ -10,7 +12,7 @@ The assignment describes four rooms with two desks each, plus a central conferen
 
 ## Proposed topology
 
-The report places a router, switch, and modem in a rack near the centre of the building and specifies CAT6 cabling. It proposes eight desk connections, one access point, and two spare outlets, with a 16-port switch.
+In my design, I placed a router, switch, and modem in a rack near the centre of the building and specifies CAT6 cabling. I proposed eight desk connections, one access point, and two spare outlets, with a 16-port switch.
 
 ## Capacity check
 
@@ -18,16 +20,16 @@ Eight desks plus one access point consume nine switch ports. A router uplink bri
 
 ## Addressing clarification
 
-192.168.1.1 is a host address, not a subnet. A portfolio revision can describe a proposed 192.168.1.0/24 subnet with .1 as its gateway, reserved management addresses, and a non-overlapping DHCP pool. This is a clarified proposal, not a recovered device configuration.
+192.168.1.1 is a host address, not a subnet. For clarity, I use a proposed 192.168.1.0/24 subnet with .1 as its gateway, reserved management addresses, and a non-overlapping DHCP pool. This describes my proposed addressing scheme, rather than a configuration exported from a device.
 
-## Validation still needed
+## About this work
 
-The report is a design exercise. No simulator project or connectivity logs were supplied. A stronger next version would add a labelled topology, DHCP and ping results, an access-point placement survey, and a guest-network isolation test.
+I completed this as a design exercise. I have not included a simulator project or connectivity logs. Possible additions are a labelled topology, DHCP and ping results, an access-point placement survey, and a guest-network isolation test.
 
 ## Source submission
 
 - `پیکربندی فضای اداری 200متری.pdf`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)

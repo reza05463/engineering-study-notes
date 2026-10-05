@@ -1,8 +1,10 @@
 # Three views of a software system
 
+[**English**](software-modelling.md) · [**فارسی**](software-modelling.fa.md)
+
 **Type:** Study note
 
-Connecting data structure, information flow, and state changes in software analysis.
+I brought together my notes on ERD, DFD, and state diagrams to explain three ways of looking at a software system.
 
 ## Scope
 
@@ -29,6 +31,6 @@ Use the same entity names and business rules in all three views. The library exa
 - `1_18576242756 (1).pptx`
 - `mdlsazy_systmhay_nrmafzary_ERD_DFD_w_STD_dr_chrkhh_hyat_twsah.pptx`
 
-Original filenames are provenance records. This repository publishes edited English notes rather than the original slide artwork.
+These are the original filenames from my coursework. I have shared the notes here in English and Persian; the original slides and artwork are kept separately.
 
-[All study notes](../README.md)
+[All study notes](../README.en.md)
