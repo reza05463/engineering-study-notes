@@ -7,20 +7,30 @@ I collected my university reports, presentations, and study notes here. They cov
 
 All 13 notes are available in both languages. Use the English / فارسی links at the top of each document to switch languages.
 
-| Topic | Artifact type |
-|---|---|
-| [Network design for a 200 m² office](notes/office-network.md) | Design study |
-| [A two-floor wired and wireless network](notes/two-floor-network.md) | Design study |
-| [Three views of a software system](notes/software-modelling.md) | Study note |
-| [Black-box and white-box testing](notes/software-testing.md) | Study note |
-| [Object-oriented design fundamentals](notes/object-oriented-design.md) | Study note |
-| [An introduction to Ruby](notes/ruby-overview.md) | Presentation |
-| [Raspberry Pi as a learning platform](notes/raspberry-pi.md) | Presentation |
-| [Zigbee and low-power sensor networks](notes/zigbee.md) | Study note |
-| [Gyroscope principles and applications](notes/gyroscopes.md) | Presentation |
-| [Understanding Linux huge pages](notes/huge-pages.md) | Collaborative study |
-| [Reading graph neural networks for chess](notes/chess-gnn-review.md) | Paper review |
-| [Ethernet forwarding trade-offs](notes/ethernet-switching.md) | Study note |
-| [Documenting an Android emulator setup](notes/android-emulation.md) | Study note |
+| Topic | Artifact type | Original file |
+|---|---|---|
+| [Network design for a 200 m² office](notes/office-network.md) | Design study | [PDF](pdfs/office-network.pdf) |
+| [A two-floor wired and wireless network](notes/two-floor-network.md) | Design study | [PDF](pdfs/two-floor-network.pdf) |
+| [Three views of a software system](notes/software-modelling.md) | Study note | [PDF](pdfs/software-modelling.pdf) |
+| [Black-box and white-box testing](notes/software-testing.md) | Study note | Not added yet |
+| [Object-oriented design fundamentals](notes/object-oriented-design.md) | Study note | Not added yet |
+| [An introduction to Ruby](notes/ruby-overview.md) | Presentation | [PDF](pdfs/ruby-overview.pdf) |
+| [Raspberry Pi as a learning platform](notes/raspberry-pi.md) | Presentation | [PDF](pdfs/raspberry-pi.pdf) |
+| [Zigbee and low-power sensor networks](notes/zigbee.md) | Study note | [PDF](pdfs/zigbee.pdf) |
+| [Gyroscope principles and applications](notes/gyroscopes.md) | Presentation | [PDF](pdfs/gyroscopes.pdf) |
+| [Understanding Linux huge pages](notes/huge-pages.md) | Collaborative study | Not added yet |
+| [Reading graph neural networks for chess](notes/chess-gnn-review.md) | Paper review | [PDF](pdfs/chess-gnn-review.pdf) |
+| [Ethernet forwarding trade-offs](notes/ethernet-switching.md) | Study note | [PDF](pdfs/ethernet-switching.pdf) |
+| [Documenting an Android emulator setup](notes/android-emulation.md) | Study note | [PDF](pdfs/android-emulation.pdf) |
 
+## Attribution
 
+I worked on the Huge Pages report with Mohammadreza Omidian. For the chess presentation, I reviewed Saleh Alwer’s paper; the experimental results belong to that paper. I originally prepared most of this coursework in Persian and the Ruby presentation in English.
+
+I have kept the original filenames and references in each note so the sources are easy to follow. See [how I organized these notes](EDITORIAL-NOTES.md) for details.
+
+## Original PDFs
+
+I have also included the PDFs of my presentations and reports so the original work can be viewed alongside the notes. Their contents are unchanged; only the repository copies have short English filenames for simpler links. Each PDF keeps its original language. The language switch changes the notes, not the PDF contents.
+
+PDFs are available for 10 topics. Huge pages, software testing and object-oriented design do not have PDFs here yet. See the [PDF index and original filenames](pdfs/README.en.md).
